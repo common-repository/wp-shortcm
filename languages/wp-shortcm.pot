@@ -1,0 +1,122 @@
+# Copyright (C) 2014 WP Shortcm
+# This file is distributed under the same license as the WP Shortcm package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Shortcm 2.3.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-shortcm\n"
+"POT-Creation-Date: 2014-06-28 13:52:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class.wp-shortcm-admin.php:80
+msgid "settings page"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:82
+msgid "WP Shortcm is almost ready! Please visit the %s to add your oauth token."
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:104
+msgid "Short.cm Secret Key"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:105 includes/class.wp-shortcm-admin.php:137
+msgid "Post Types"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:106 includes/class.wp-shortcm-admin.php:153
+msgid "Debug WP Shortcm"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:109
+msgid ""
+"You will need a short.cm account to use this plugin. Click the link below for "
+"your Secret Key, and if necessary create a new account."
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:123
+msgid "Please provide your"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:123
+msgid "Secret key"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:143
+msgid "Automatically generate shortlinks for the selected post types."
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:154
+msgid "Let's debug!"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:155
+msgid ""
+"If you're having issues generating shortlinks, turn this on and create a "
+"thread in the "
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:156
+msgid "WP Shortcm support forums on WordPress.org"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:156
+msgid "support forums"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (WP Shortcm 2.3.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class.wp-shortcm-admin.php:221
+msgid "WP Shortcm"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:252
+msgid "Bitly Statistics"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:256
+msgid "Global click through:"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:259
+msgid "Your link was shared on"
+msgstr ""
+
+#: includes/class.wp-shortcm-admin.php:270
+msgid ""
+"There was a problem retrieving information about your link. There may not be "
+"statistics yet."
+msgstr ""
+
+#: includes/functions.php:53
+msgid "WP Shortcm Error: No such API endpoint."
+msgstr ""
+
+#: wp-shortcm.php:41
+msgid "WP Shortcm Error: No such option %1$s"
+msgstr ""
+
+#: wp-shortcm.php:227
+msgid "Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/wp-shortcm"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WP Shortcm can be used to generate shortlinks for your websites posts, pages, "
+"and custom post types. Extremely lightweight and easy to set up, give it "
+"your Bitly oAuth token and go!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid ""
+"<a href=\"http://mark.watero.us/\">Mark Waterous</a> & <a href=\"http://www."
+"chipbennett.net/\">Chip Bennett</a>"
+msgstr ""
